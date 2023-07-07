@@ -5,8 +5,8 @@
 
 - :woman_student:: Ming Liu's Homepage
 - :fountain_pen:: Tech Blogs
-- :book_mark:: Resume
-- :e_mail: liu_ming@buaa.edu.cn
+- :id:: Resume
+- :postbox:: liu_ming@buaa.edu.cn
 
 <!-- Generate Snake GIF-->
 ![snake gif](https://github.com/louiseliuming/louiseliuming/blob/output/github-contribution-grid-snake.svg)
