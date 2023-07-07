@@ -5,7 +5,7 @@
 
 ### Hi I'm Louise Liu 👋
 
-![snake gif](https://github.com/louiseliuming/louiseliuming/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/guigui64/guigui64/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
