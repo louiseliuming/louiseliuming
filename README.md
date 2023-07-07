@@ -1,11 +1,10 @@
-
-<!-- Github Statistical Chart
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=louiseliuming&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
--->
-
 ### Hi I'm Louise Liu 👋
 
+<!-- Generate Snake GIF-->
 ![snake gif](https://github.com/louiseliuming/louiseliuming/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Github Statistical Chart -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=louiseliuming&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 <!--
