@@ -11,7 +11,7 @@
 - :postbox:: liu_ming@buaa.edu.cn
 
 <!-- Generate Snake GIF-->
-![snake gif](https://raw.githubusercontent.com/louiseliuming/louiseliuming/main/assets/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://raw.githubusercontent.com/louiseliuming/louiseliuming/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 **louiseliuming/louiseliuming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
