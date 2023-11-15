@@ -6,8 +6,8 @@
 <br/>
   
 - :earth_asia:: [Ming Liu's Homepage](https://louiseliuming.github.io)
-- :fountain_pen:: [Tech Blogs]()
-- :link:: [Resume]()
+- :fountain_pen:: [Tech Blogs](https://louiseliuming.github.io/year-archive/)
+- :link:: [Resume](https://louiseliuming.github.io/cv/)
 - :postbox:: liu_ming@buaa.edu.cn
 
 <!-- Generate Snake GIF-->
